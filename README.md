@@ -1,13 +1,13 @@
 <!--
-  PROFILE README — github.com/WafaaRahmoune
+  PROFILE README - github.com/WafaaRahmoune
   Animated header : capsule-render  |  Animated subtitle : readme-typing-svg
 -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4c1d95,100:0f172a&height=190&section=header&text=Wafaa%20Rahmoune&fontSize=46&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=AI%20%C3%97%20Cybersecurity%20Engineer&descSize=18&descAlignY=60" alt="header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4c1d95,100:0f172a&height=190&section=header&text=Wafaa%20Rahmoune&fontSize=46&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=AI%20and%20Cybersecurity%20Engineer&descSize=18&descAlignY=60" alt="header"/>
 
 <p align="center">
   <a href="https://github.com/WafaaRahmoune">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1000&color=8B5CF6&center=true&vCenter=true&width=640&lines=Computer+Systems+Engineer+%E2%80%94+ESI+SBA;Applying+AI+to+Cybersecurity;Multi-agent+LLMs+for+SOC+automation;Curious+mind%2C+always+learning" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1000&color=8B5CF6&center=true&vCenter=true&width=640&lines=Computer+Systems+Engineer%2C+ESI+SBA;Applying+AI+to+Cybersecurity;Multi-agent+LLMs+for+SOC+automation;Curious+mind%2C+always+learning" alt="Typing SVG"/>
   </a>
 </p>
 
@@ -22,22 +22,22 @@
 
 ## About me
 
-Computer Systems Engineer — **State Engineer's degree + Master 2 (highest honors)** from the *École Supérieure en Informatique (ESI), Sidi Bel Abbès*, where I graduated **top of my specialty** (Computer Systems Engineering).
+Computer Systems Engineer, holding a **State Engineer's degree and a Master 2 (highest honors)** from the *École Supérieure en Informatique (ESI), Sidi Bel Abbès*, where I graduated **top of my specialty** (Computer Systems Engineering).
 
-- Currently **AI & Cybersecurity Engineer @ BeLogic AI** (remote), industrializing the next version of **Verdex**.
-- I put **Artificial Intelligence — LLMs, multi-agent systems and deep learning — at the service of cybersecurity**: SOC automation, intrusion detection, threat intelligence.
-- I build intelligent systems end-to-end, from data and models to APIs, deployment and UI.
+- Currently **AI and Cybersecurity Engineer at BeLogic AI** (remote), industrializing the next version of **Verdex**.
+- I put **Artificial Intelligence (LLMs, multi-agent systems and deep learning) at the service of cybersecurity**: SOC automation, intrusion detection, threat intelligence.
+- I build intelligent systems end to end, from data and models to APIs, deployment and UI.
 - Research-driven: my goal is **applied research at the intersection of AI and cybersecurity**.
 
-## Featured project — Verdex · *From Wazuh to Verdict*
+## Featured project: Verdex (From Wazuh to Verdict)
 
 A microservices platform that **automates the full SOC investigation chain**, turning raw Wazuh alerts into clear, evidence-backed verdicts. A **multi-agent system built on open-weight LLMs deployed on-premise** (for data confidentiality) reproduces an analyst's reasoning, reconstructs **APT attack chains as attack graphs** mapped to **MITRE ATT&CK**, and enriches indicators through threat-intelligence sources.
 
-> **Results** (Wilson scenario, AIT-ADS dataset): up to **99.99% alert-noise reduction** · **7/9 attack phases** reconstructed · **98.9% precision** · **99.9% recall** · **99.4% F1**.
+> **Results** (Wilson scenario, AIT-ADS dataset): up to **99.99% alert-noise reduction**, **7/9 attack phases** reconstructed, **98.9% precision**, **99.9% recall**, **99.4% F1**.
 
-`Python` · `FastAPI` · `LangGraph` · `Langfuse` · `MCP` · `LLMs` · `Wazuh` · `OpenSearch` · `Neo4j` · `Kafka` · `Docker`
+**Stack:** `Python` | `FastAPI` | `LangGraph` | `Langfuse` | `MCP` | `LLMs` | `Wazuh` | `OpenSearch` | `Neo4j` | `Kafka` | `Docker`
 
-Related open dataset → [**soc-analyst-agent-dataset**](https://github.com/WafaaRahmoune/soc-analyst-agent-dataset) (3,057 SOC Tier-2 investigation trajectories).
+Related open dataset: [**soc-analyst-agent-dataset**](https://github.com/WafaaRahmoune/soc-analyst-agent-dataset) (3,057 SOC Tier-2 investigation trajectories).
 
 ## Tech stack
 
