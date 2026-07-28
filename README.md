@@ -25,7 +25,7 @@
 
 ## About me
 
-Hi, I'm Wafaa, an ambitious and technology-driven engineer. I hold a **Master's degree** and a **State Engineer's degree** from the **Higher School of Computer Science (ESI SBA)**.
+Hi, I'm Wafaa, an ambitious engineer with a real passion for technology. I hold a **Master's degree** and a **State Engineer's degree** from the **Higher School of Computer Science (ESI SBA)**.
 
 Right now, I focus on **applying Artificial Intelligence to cybersecurity**. I mainly code in **Python, C++ and Java**, and I find real joy in **building tech projects that are useful to society**.
 
