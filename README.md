@@ -3,11 +3,14 @@
   Animated header : capsule-render  |  Animated subtitle : readme-typing-svg
 -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4c1d95,100:0f172a&height=190&section=header&text=Wafaa%20Rahmoune&fontSize=46&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=AI%20and%20Cybersecurity%20Engineer&descSize=18&descAlignY=60" alt="header"/>
+<!-- HEADER: temporary green wave. Replace the whole <img> below with your generated banner once ready:
+     <img width="100%" src="banner.png" alt="Wafaa Rahmoune banner"/>
+-->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:059669,100:064e3b&height=190&section=header&text=Wafaa%20Rahmoune&fontSize=46&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=AI%20and%20Cybersecurity%20Engineer&descSize=18&descAlignY=60" alt="header"/>
 
 <p align="center">
   <a href="https://github.com/WafaaRahmoune">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1000&color=8B5CF6&center=true&vCenter=true&width=640&lines=Computer+Systems+Engineer%2C+ESI+SBA;Applying+AI+to+Cybersecurity;Building+tech+that+is+useful+to+society;Curious+mind%2C+always+learning" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1000&color=22C55E&center=true&vCenter=true&width=640&lines=Computer+Systems+Engineer%2C+ESI+SBA;Applying+AI+to+Cybersecurity;Building+tech+that+is+useful+to+society;Curious+mind%2C+always+learning" alt="Typing SVG"/>
   </a>
 </p>
 
@@ -17,7 +20,7 @@
   -->
   <a href="https://www.linkedin.com/in/wafaa-rahmoune-474897282/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:w.rahmoune@esi-sba.dz"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <img src="https://komarev.com/ghpvc/?username=WafaaRahmoune&style=for-the-badge&color=8b5cf6&label=Profile+views" alt="views"/>
+  <img src="https://komarev.com/ghpvc/?username=WafaaRahmoune&style=for-the-badge&color=22c55e&label=Profile+views" alt="views"/>
 </p>
 
 ## About me
@@ -84,4 +87,4 @@ Related open dataset: [**soc-analyst-agent-dataset**](https://github.com/WafaaRa
 ![ESP8266](https://img.shields.io/badge/ESP8266%20%2F%20ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:4c1d95&height=100&section=footer" alt="footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:064e3b,100:34d399&height=100&section=footer" alt="footer"/>
