@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://github.com/WafaaRahmoune">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1000&color=8B5CF6&center=true&vCenter=true&width=640&lines=Computer+Systems+Engineer%2C+ESI+SBA;Applying+AI+to+Cybersecurity;Multi-agent+LLMs+for+SOC+automation;Curious+mind%2C+always+learning" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1000&color=8B5CF6&center=true&vCenter=true&width=640&lines=Computer+Systems+Engineer%2C+ESI+SBA;Applying+AI+to+Cybersecurity;Building+tech+that+is+useful+to+society;Curious+mind%2C+always+learning" alt="Typing SVG"/>
   </a>
 </p>
 
@@ -24,9 +24,10 @@
 
 Computer Systems Engineer, holding a **State Engineer's degree and a Master 2 (highest honors)** from the *École Supérieure en Informatique (ESI), Sidi Bel Abbès*, where I graduated **top of my specialty** (Computer Systems Engineering).
 
+- Passionate about **applying Artificial Intelligence to cybersecurity**, to build systems that are more efficient, resilient and dependable.
+- Deeply ambitious about technology, I find real joy in **building tech projects that are useful to society**.
 - Currently **AI and Cybersecurity Engineer at BeLogic AI** (remote), industrializing the next version of **Verdex**.
-- I put **Artificial Intelligence (LLMs, multi-agent systems and deep learning) at the service of cybersecurity**: SOC automation, intrusion detection, threat intelligence.
-- I build intelligent systems end to end, from data and models to APIs, deployment and UI.
+- I code mainly in **Python, C++ and Java**, and build intelligent systems end to end: from data and models to APIs, deployment and UI.
 - Research-driven: my goal is **applied research at the intersection of AI and cybersecurity**.
 
 ## Featured project: Verdex (From Wazuh to Verdict)
