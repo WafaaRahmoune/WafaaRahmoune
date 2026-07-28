@@ -3,10 +3,7 @@
   Animated header : capsule-render  |  Animated subtitle : readme-typing-svg
 -->
 
-<!-- HEADER: temporary green wave. Replace the whole <img> below with your generated banner once ready:
-     <img width="100%" src="banner.png" alt="Wafaa Rahmoune banner"/>
--->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8b5cf6,100:34d399&height=190&section=header&text=Wafaa%20Rahmoune&fontSize=46&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=AI%20and%20Cybersecurity%20Engineer&descSize=18&descAlignY=60" alt="header"/>
+<img width="100%" src="https://raw.githubusercontent.com/WafaaRahmoune/WafaaRahmoune/main/banner.png" alt="Wafaa Rahmoune - AI and Cybersecurity Engineer"/>
 
 <p align="center">
   <a href="https://github.com/WafaaRahmoune">
