@@ -84,11 +84,4 @@ Related open dataset: [**soc-analyst-agent-dataset**](https://github.com/WafaaRa
 ![ESP8266](https://img.shields.io/badge/ESP8266%20%2F%20ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
-## GitHub stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=WafaaRahmoune&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight" alt="stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WafaaRahmoune&layout=compact&hide_border=true&langs_count=8&theme=tokyonight" alt="top languages"/>
-</p>
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:4c1d95&height=100&section=footer" alt="footer"/>
